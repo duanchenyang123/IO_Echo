@@ -1,0 +1,1 @@
+gcc  poll_server.c  ../common/common.h  ../common/head.h  ../common/tcp_server.h  ../common/tcp_server.c ../common/common.c
